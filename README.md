@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# 노마드코더 강의 들으면서 끄적이기... 
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
